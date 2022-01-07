@@ -1,4 +1,4 @@
-edit this file
+edit this file (change made in master)
 
 ## changes made in myBranch
 
