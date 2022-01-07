@@ -4,5 +4,6 @@ public class Main{
         System.out.println("test");
         System.out.println("edit in Branch_1");
         System.out.println("another edit in line 5 in master");
+        System.out.println("another test");
     }
 }
